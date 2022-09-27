@@ -14,6 +14,6 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 
 Ссылки на выполненное задание в:
 * Jenkins job
-  <a target="_blank" href="https://jenkins.autotests.cloud/job/azhegalova_hometask-19-api/">jenkins job</a>.
+  <a target="_blank" href="https://jenkins.autotests.cloud/job/azhegalova_hometask-21-mobile-1/3/allure/">jenkins job</a>.
 
 * Browserstack <a target="_blank" href="https://app-automate.browserstack.com/sessions/42e78714eb8327a34b87508d54f0462643a615db/video?token=OFdHbEdTalpTM3lZMkM5Y3ZTZjA0cG1kN3ViMVpGRTRJZHVwZmQzQWtDUHZCeWhTVEpjbm5iZFVrUTZzVmFhVUNuWW1wRFBFUGpiWFZSYlNEVGxqM0E9PS0tV0hyNlZaSzFpOEpsYUVPbDZ2aVN4dz09--1cc637cdf92be631b934d6a8a5ede6d67a3fef51&source=rest_api&diff=9.249968507/">video example</a>.
