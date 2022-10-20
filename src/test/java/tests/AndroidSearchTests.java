@@ -27,7 +27,7 @@ public class AndroidSearchTests extends TestBase {
 
 
     @Test
-    @DisplayName("Search and open Roald dahl page")
+    @DisplayName("Search and open Roald Dahl page")
     void searchInPageTest() {
 
         step("Type search", () -> {
@@ -38,7 +38,7 @@ public class AndroidSearchTests extends TestBase {
         step("Verify content found", () ->
                 $$(AppiumBy.id("org.wikipedia.alpha:id/page_list_item_title"))
                         .shouldHave(sizeGreaterThan(0)));
-        step("Open Selenide page", () ->
+        step("Open Roald Dahl page", () ->
                 $$(AppiumBy.id("org.wikipedia.alpha:id/fragment_feed_header")).first().click());
         step("Verify content found", () -> {
             $(AppiumBy.className("android.webkit.WebView")).$$(AppiumBy.className("android.widget.TextView")).first()
