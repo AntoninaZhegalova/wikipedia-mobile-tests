@@ -26,12 +26,12 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 Скриншоты:
 
 <p align="center">
-<img title="Wiki-update" src="images/wiki-update.png">
+<img title="Wiki-update" src="images/wiki-update.png" width="1500"/>
 </p>
-<p align="center"> <img title="Browserstack2" src="images/2.png">
+<p align="center"> <img title="Browserstack2" src="images/2.png"width="500"/>
 </p>
 <p align="center">
-<img title="Browserstack3" src="images/3.png">
+<img title="Browserstack3" src="images/3.png"width="500"/>
 </p> 
-<p align="center"> <img title="Browserstack4" src="images/4.png">
+<p align="center"> <img title="Browserstack4" src="images/4.png"width="500"/>
 </p> 
