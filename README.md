@@ -20,8 +20,13 @@ QA.GURU | Java | Автоматизация тестирования | Моби�
 <img title="Allure Overview Dashboard" src="images/jenkins-report.png">
 </p>
 
-* <a target="_blank" href="https://app-automate.browserstack.com/sessions/42e78714eb8327a34b87508d54f0462643a615db/video?token=OFdHbEdTalpTM3lZMkM5Y3ZTZjA0cG1kN3ViMVpGRTRJZHVwZmQzQWtDUHZCeWhTVEpjbm5iZFVrUTZzVmFhVUNuWW1wRFBFUGpiWFZSYlNEVGxqM0E9PS0tV0hyNlZaSzFpOEpsYUVPbDZ2aVN4dz09--1cc637cdf92be631b934d6a8a5ede6d67a3fef51&source=rest_api&diff=9.249968507/"> Browserstack video example</a>.
+[comment]: <> (* <a target="_blank" href="https://app-automate.browserstack.com/sessions/42e78714eb8327a34b87508d54f0462643a615db/video?token=OFdHbEdTalpTM3lZMkM5Y3ZTZjA0cG1kN3ViMVpGRTRJZHVwZmQzQWtDUHZCeWhTVEpjbm5iZFVrUTZzVmFhVUNuWW1wRFBFUGpiWFZSYlNEVGxqM0E9PS0tV0hyNlZaSzFpOEpsYUVPbDZ2aVN4dz09--1cc637cdf92be631b934d6a8a5ede6d67a3fef51&source=rest_api&diff=9.249968507/"> Browserstack video example</a>.)
 
+Пример запуска теста:
+
+<p align="center">
+<img title="Video" src="images/browserstack video example.gif" width="500" alt="video">
+</p>
 
 Скриншоты:
 
